@@ -1,0 +1,16 @@
+d={1:'one',2:'two'}
+type(d)
+print(d)
+d1={"siri":'white',"rishitha":'black',"shyni":'blue'}
+print(d1)
+print(d1.items())
+print(d1.keys())
+print(d1.values())
+d1.update({"honey":'green'})
+print(d1)
+d1.pop('rishitha')
+print(d1)
+d1.setdefault("arha",'pink')
+print(d1)
+d1.setdefault("siri",'white')
+print(d1)

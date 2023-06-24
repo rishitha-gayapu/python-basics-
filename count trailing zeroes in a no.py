@@ -1,0 +1,9 @@
+n=int(input("enter"))
+count=0
+while((1&n)!=1):
+    count=count+1
+    n=n>>1
+print(count)
+print(count+1)
+print(count-1)
+print(count

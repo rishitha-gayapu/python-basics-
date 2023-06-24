@@ -1,0 +1,9 @@
+str='hi'
+print(str.center(10,'*'))
+str='jamesbond007'
+print(str.isalnum())
+str='MISSISISIPPI'
+print(list(enumerate(str)))
+print(str.swapcase())
+print(str.swapcase())
+print(str.swapcase())

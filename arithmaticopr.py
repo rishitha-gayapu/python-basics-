@@ -1,0 +1,8 @@
+n1=int(input("first number"))
+n2=int(input("second number"))
+print("sum=",n1+n2)
+print("sub=",n1-n2)
+print("mul=",n1*n2)
+print("quo1=",n1/n2)
+print("quo2=",n1//n2)
+print("mod=",n1%n2)
